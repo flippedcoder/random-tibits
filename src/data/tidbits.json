@@ -1,0 +1,18 @@
+[
+    {
+    "category": "Future Tech",
+    "fact": "In quantum computing, a qubit is the quantum equivalent to a bit. The difference is that it's a 0 and 1 at the same time. That's what makes computing so fast. All of the qubits can be a different state instantaneously."
+},
+{
+    "category": "JavaScript",
+    "fact": "In JavaScript, you can use the spread operator to make an array without duplicates.\n const firstNames = ['Mary', 'Alan', 'Quincy', 'Alan', 'Lawrence', 'Robert', 'Tommy', 'Mary', 'Michael', 'Alan', 'Lawrence', 'Evie']\n const noDups = […new Set(firstNames)]"
+},
+{
+    "category": "Resource",
+    "fact": "There's a website called tosdr.org that sums up the Terms and Conditions of most sites."
+},
+{
+    "category": "Future Tech",
+    "fact": "I'm artificial intelligence, there is no specific definition of intelligence. It mainly has to generate flexible responses, understand the relative importance of things in a situation, find similarities and differences between situations, and respond correctly to ambiguous situations."
+}
+]

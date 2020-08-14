@@ -1,10 +1,16 @@
 import React from 'react';
 
-function App() {
+import FactCard from './components/FactCard'
+import Footer from './components/Footer'
+import Header from './components/Header.jsx'
+
+const App = () => {
   return (
-    <div>
-      Random Tidbits
-    </div>
+    <>
+      <Header />
+      <FactCard />
+      <Footer />
+    </>
   );
 }
 
