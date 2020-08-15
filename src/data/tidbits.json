@@ -5,7 +5,7 @@
   },
   {
     "category": "JavaScript",
-    "fact": "In JavaScript, you can use the spread operator to make an array without duplicates.\n\r const firstNames = ['Mary', 'Alan', 'Quincy', 'Alan', 'Lawrence', 'Robert', 'Tommy', 'Mary', 'Michael', 'Alan', 'Lawrence', 'Evie']\n\r const noDups = […new Set(firstNames)]"
+    "fact": ["In JavaScript, you can use the spread operator to make an array without duplicates.", "const firstNames = ['Mary', 'Alan', 'Quincy', 'Alan', 'Lawrence', 'Robert', 'Tommy', 'Mary', 'Michael', 'Alan', 'Lawrence', 'Evie']", "const noDups = […new Set(firstNames)]]"]
   },
   {
     "category": "Resource",

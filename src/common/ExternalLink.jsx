@@ -8,7 +8,12 @@ const ExternalLink = ({ href, title }) => (
 )
 
 const Link = styled.a`
+  color: #381600;
   text-decoration: none;
+
+  &:visited {
+    color: #1b4200;
+  }
 `
 
 export default ExternalLink

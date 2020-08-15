@@ -17,8 +17,16 @@ export default function FactCard() {
 
   return (
     <Container>
-      <h2>{tidbitArray[currIndex].category}</h2>
-      <Text>{tidbitArray[currIndex].fact}</Text>
+      <h2>Category: {tidbitArray[currIndex].category}</h2>
+      {Array.isArray(tidbitArray[currIndex].fact) ? (
+        <>
+          {tidbitArray[currIndex].fact.map((line) => (
+            <Text>{line}</Text>
+          ))}
+        </>
+      ) : (
+        <Text>{tidbitArray[currIndex].fact}</Text>
+      )}
       <Button onClick={showNextTidbit}>Get new tidbit</Button>
     </Container>
   )
@@ -40,9 +48,10 @@ const Button = styled.div`
 `
 const Container = styled.div`
   border: 5px solid;
+  border-radius: 20px;
   margin: 24px auto;
-  padding: 0 24px;
-  width: 80%;
+  padding: 36px 48px;
+  width: 50%;
 `
 
 const Text = styled.div`

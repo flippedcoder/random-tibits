@@ -7,7 +7,10 @@ export default function Footer() {
   return (
     <FooterContainer>
       <FooterFlex>
-        <div>Flipped Coding &#169; 2020</div>
+        <ExternalLink
+          href="https://flippedcoding.com"
+          title="Flipped Coding &#169; 2020"
+        />
         <InnerFlex>
           <ExternalLink
             href="https://twitter.com/flippedcoding"
