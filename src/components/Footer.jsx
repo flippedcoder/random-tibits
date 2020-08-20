@@ -52,4 +52,13 @@ const InnerFlex = styled.div`
   display: flex;
   flex-grow: 2;
   justify-content: space-evenly;
+
+  @media only screen and (max-width: 600px) {
+    flex-direction: column;
+    flex-grow: unset;
+
+    & > a {
+      padding: 6px;
+    }
+  }
 `
