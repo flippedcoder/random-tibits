@@ -52,6 +52,11 @@ const Container = styled.div`
   margin: 24px auto;
   padding: 36px 48px;
   width: 50%;
+
+  @media only screen and (max-width: 600px) {
+    padding: 12px;
+    width: unset;
+  }
 `
 
 const Text = styled.div`
