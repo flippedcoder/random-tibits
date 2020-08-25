@@ -13,6 +13,22 @@
   },
   {
     "category": "Future Tech",
-    "fact": "I'm artificial intelligence, there is no specific definition of intelligence. It mainly has to generate flexible responses, understand the relative importance of things in a situation, find similarities and differences between situations, and respond correctly to ambiguous situations."
+    "fact": "In artificial intelligence, there is no specific definition of intelligence. It mainly has to generate flexible responses, understand the relative importance of things in a situation, find similarities and differences between situations, and respond correctly to ambiguous situations."
+  },
+  {
+    "category": "Resource",
+    "fact": "When you need to mock a lot of data quickly, https://mockaroo.com/ might be a good idea."
+  },
+  {
+    "category": "Resource",
+    "fact": "If you want a more interesting video call, try https://hubs.mozilla.com/ It's a VR room that you can hang out with co-workers and friends in."
+  },
+  {
+    "category": "Future Tech",
+    "fact": "If you want to work with blockchain on client-side apps and connect them to the Ethereum network, using web3.js is the standard. It's another npm package you can install in your project."
+  },
+  {
+    "category": "Resource",
+    "fact": "There is a machine learning algorithm specifically tailored to natural language processing (NLP) problems called BERT and it's faster and more accurate than all of the others available. https://www.freecodecamp.org/news/google-bert-nlp-machine-learning-tutorial/"
   }
 ]
