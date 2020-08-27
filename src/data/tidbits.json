@@ -30,5 +30,37 @@
   {
     "category": "Resource",
     "fact": "There is a machine learning algorithm specifically tailored to natural language processing (NLP) problems called BERT and it's faster and more accurate than all of the others available. https://www.freecodecamp.org/news/google-bert-nlp-machine-learning-tutorial/"
+  },
+  {
+    "category": "Future Tech",
+    "fact": "Solidity is the language used to write smart contracts for blockchain. It's like a hybrid of JavaScript and C."
+  },
+  {
+    "category": "Resources",
+    "fact": "You can automate security tests in your pipeline by using various tools in Gauntlt (http://gauntlt.org/). It will run other tools for you as you check for vulnerabilities in your CI/CD pipeline."
+  },
+  {
+    "category": "Resources",
+    "fact": "Kali Linux is great to get started with hacking! https://www.kali.org/ It has a bunch of pentest tools already installed like scanners, SQLi attack tools, XSS tools."
+  },
+  {
+    "category": "JavaScript",
+    "fact": "If you want an easy way to get started with machine learning and you want to use JavaScript, try Brain.js (https://brain.js.org/). If you can work with arrays and objects, you're good to go."
+  },
+  {
+    "category": "JavaScript",
+    "fact": "Need all of the back-end security for your Node.js app? Just use the helmet.js package (https://helmetjs.github.io/)."
+  },
+  {
+    "category": "JavaScript",
+    "fact": "Want to do a quick scan for npm packages with vulnerabilities? Try out retire.js (https://retirejs.github.io/retire.js/)."
+  },
+  {
+    "category": "Resources",
+    "fact": "Creativity is not something you're born with, it's something you work for. The War of Art is a great book that really puts that in persepective (https://www.amazon.com/War-Art-Winning-Creative-Battle-audio-cd/dp/1501260626)."
+  },
+  {
+    "category": "Resources",
+    "fact": "VPNs are great if you need a secure internet connection that no one can intercept. It keeps all of your traffic in an encrypted tunnel so you can send sensitive data."
   }
 ]
